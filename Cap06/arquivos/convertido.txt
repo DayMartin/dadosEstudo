@@ -1,0 +1,1 @@
+{"Nome": "Dinah", "Idade": 16, "Bens": ["Casa", "Moto", "Esposa"], "Irmaos": ["Jhe", "Julio", "Biel", "Drika", "Etho", "Nanda", "Ricardo"], "Adulta": true, "Casada": true, "id": 48}
